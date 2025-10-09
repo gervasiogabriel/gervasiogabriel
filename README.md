@@ -1,16 +1,27 @@
-## Hi there 👋
+## Be Welcome!! 👋
 
-<!--
-**gervasiogabriel/gervasiogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Gabriel Gervásio, but you can call me _Gervásio_ :)
 
-Here are some ideas to get you started:
+#### About me 👇
+I’m 23 years old, currently studying Systems Analysis and Development.
+Learning and building projects as a Web Developer focused on Front-End, exploring modern technologies and clean design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Principal Engineering Stack
+
+<a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+<a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
