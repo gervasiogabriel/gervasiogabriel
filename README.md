@@ -3,8 +3,7 @@
 #### My name is Gabriel Gervásio, but you can call me _Gervásio_ :)
 
 #### About me 👇
-I’m 23 years old, currently studying Systems Analysis and Development.
-Learning and building projects as a Web Developer focused on Front-End, exploring modern technologies and clean design.
+I’m 23 years old, currently studying Systems Analysis and Development. Learning Full Stack development, focused on Back-End, exploring modern technologies.
 
 ---
 
